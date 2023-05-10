@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita Jagdale
-- 👀 I’m interested in Java,SQL.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML,CSS,JavaScript,DSA.
 - 📫 How to reach me: Check social links below.
 
